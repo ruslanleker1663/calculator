@@ -8,6 +8,7 @@ body{
 }
 #calculator{
     font-family: Arial, sans-serif;
+    color: #ff0000;
     background-color: hsl(0, 0%, 15%);
     border-radius: 15px;
     max-width: 500px;
